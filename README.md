@@ -1,6 +1,8 @@
 A program for obtaining operating system parameters
 
 Author: Kuandyk Mukhamedali
+Group: SE-2224
+
 
 Steps to start the program:
 
